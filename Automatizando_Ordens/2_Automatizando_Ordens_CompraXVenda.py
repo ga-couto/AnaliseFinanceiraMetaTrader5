@@ -138,6 +138,3 @@ while True:
     print(to_dentro_horario)
     time.sleep(2)
 #Com esse código, sabemos abrir posição e como fecha-las.
-
-
-mt5.shutdown()
