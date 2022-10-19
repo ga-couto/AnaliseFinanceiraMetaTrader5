@@ -81,6 +81,3 @@ while True:
 
     print(to_dentro_horario)
     time.sleep(2)
-
-
-mt5.shutdown()
