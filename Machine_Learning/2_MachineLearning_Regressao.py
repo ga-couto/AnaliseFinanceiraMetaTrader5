@@ -21,6 +21,7 @@ df = mt5.copy_rates_from_pos(ATIVO,mt5.TIMEFRAME_D1,0,5000)
 df = pd.DataFrame(df)
 df['time'] = pd.to_datetime(df['time'], unit='s')
 
+
 print(df)
 
 df['close'].plot(label="PETR4", legend=True)
