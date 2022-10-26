@@ -5,7 +5,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 import talib
 import seaborn as sns
-#import statsmodels.api as sm
+import statsmodels.api as sm
 
 #Configurar parâmetros da biblioteca pandas
 pd.set_option('display.max_columns',500)
