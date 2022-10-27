@@ -173,4 +173,3 @@ while True:
                 0))
             print(ordem_compra())
     time.sleep(60)
-
